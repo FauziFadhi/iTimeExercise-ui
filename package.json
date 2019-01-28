@@ -66,7 +66,7 @@
     "ngx-cookie-service": "^2.0.2",
     "ngx-perfect-scrollbar": "6.1.0",
     "ngx-toastr": "^8.7.3",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.11.0",
     "rxjs": "6.1.0",
     "rxjs-compat": "^6.2.0",
     "sass-loader": "^7.0.3",
